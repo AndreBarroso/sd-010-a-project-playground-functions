@@ -59,7 +59,7 @@ function triangleCheck(lineA, lineB, lineC) {
   return false;
 }
 
-// Desafio 13  //faltaaaaaa a questão 13
+// Desafio 13  
 function hydrate(string) {
   let values = string.match(/\d+/gm);
   let arrarNumbers = [];
