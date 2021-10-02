@@ -8,9 +8,16 @@ Guardo esse projeto com muito carinho, pois aqui começou uma grande mudança em
 
 ## Habilidades
 
-* Utiizar _HTML_ para construir páginas WEB.
-* Utilizar _HTML_ semântico para tornar sua páigna mais acessível e melhor ranqueada.
-* Utilizar _CSS_ para adicionar estilo e posicionar elementos.
+- Escrever códigos em JavaScript que usam variáveis e tipos primitivos;
+- Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código;
+- Criar códigos que usam estruturas condicionais, como o if/else .
+- Manipular arrays (listas);
+- Utilizar o comando for ;
+- Quebrar grandes problemas em pequenos;
+- Utilizar a lógica de programação na resolução de problemas.
+- Manipular objetos;
+- Utilizar o comando for/in ;
+- Utilizar funções para organizar e estruturar o seu código;
 
 ---
 
@@ -30,12 +37,15 @@ cd projeto-andre
 
 3. Faça o clone do projeto executando o comando a seguir:
 ```bash
-git clone https://github.com/AndreBarroso/sd-010-a-project-lessons-learned
+git clone https://github.com/AndreBarroso/sd-010-a-project-playground-functions.git
 ```
 
 4. Agora você pode fechar o terminal. Verifique que a pasta com os arquivos 
-do projeto foram criadas no diretório especificado. Acesse o arquivo. Basta
-agora clicar em **index** que o projeto vai abrir em seu navegador.
+do projeto foram criadas no diretório especificado.
+
+5. Para a execução das funçôes, abra o arquivo em qualquer interpredaor ou IDE 
+de sua preferência com suporte a javascrip. 
+No desenvolvimento desse projeto, as funções foram criadas e testadas usando VS Code.
 
 Para quaiquer dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
