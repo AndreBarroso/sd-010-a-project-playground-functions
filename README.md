@@ -43,8 +43,9 @@ git clone https://github.com/AndreBarroso/sd-010-a-project-playground-functions.
 4. Agora você pode fechar o terminal. Verifique que a pasta com os arquivos 
 do projeto foram criadas no diretório especificado.
 
-5. Para a execução das funçôes, abra o arquivo em qualquer interpredaor ou IDE 
-de sua preferência com suporte a javascrip. 
+5. Para a execução das funções, abra o arquivo em qualquer interpredaor ou IDE 
+de sua preferência com suporte a javascrip e as execute a parti dele. 
+
 No desenvolvimento desse projeto, as funções foram criadas e testadas usando VS Code.
 
 Para quaiquer dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
