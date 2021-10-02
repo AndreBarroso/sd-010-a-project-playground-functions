@@ -51,7 +51,7 @@ do projeto foram criadas no diretório especificado.
 de sua preferência com suporte a javascrip e as execute a parti dele. 
 No desenvolvimento desse projeto, as funções foram criadas e testadas usando VS Code.
 
-Para quaiquer dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
+Para quaisquer dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
 ---
 
