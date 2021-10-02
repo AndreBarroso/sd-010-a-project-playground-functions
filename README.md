@@ -1,8 +1,12 @@
 # Boas vindas ao repositório do projeto Playground Functions!
 
-Aqui inicia a minha jornada como desenvolvedor web. Após alguns dias aprendendo ferramentas como git, github, slack entre outras tão importantes no trabalho como desenvolvedor, iniciei meu aprendizado em HTML, CSS que juntamente com javascript são a base de qualquer página web. 
+Após o aprendizado de HTML e CSS, é chegada a hora de ver mais uma ferramenta base para das páginas web. O javascript. 
+Enquanto as outas duas ferramentas são linguagens de marcação, o javascript é uma linguagem de programação. A partir dessa linguagem é possível
+dar interatividade e dinamismo às páginas.
 
-Guardo esse projeto com muito carinho, pois aqui começou uma grande mudança em minha vida. Aqui iniciei minha transição de carreira para essa area no qual quero crescer e me tornar um profissional cada vez mais capacitado. 
+Nesse projeto pude praticar os conceitos base do javascritp como condicionais, funções, objetos, arrays entre outros. 
+
+Coloco como maior desafio aqui a lógica de programação, que é um conceito base em que todo bom programador deve ter muito bem desenvolvido.
 
 ---
 
