@@ -24,8 +24,8 @@ Guardo esse projeto com muito carinho, pois aqui começou uma grande mudança em
 ## Instruções para executar o projeto em seu próprio computador
 
 
-1. Abra o terminal, acesse o diretório de sua prefeência onde 
-você deseja fazer o download e crie uma pasta com o comando **mkdir**:
+1. Abra o terminal, acesse o diretório de sua preferência onde 
+você deseja fazer o download, e crie uma pasta usando o comando **mkdir**:
 ```bash
 mkdir projeto-andre
 ```
