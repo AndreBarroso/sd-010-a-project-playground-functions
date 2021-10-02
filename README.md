@@ -1,7 +1,7 @@
 # Boas vindas ao repositório do projeto Playground Functions!
 
-Após o aprendizado de HTML e CSS, é chegada a hora de ver mais uma ferramenta base para das páginas web. O javascript. 
-Enquanto as outas duas ferramentas são linguagens de marcação, o javascript é uma linguagem de programação. A partir dessa linguagem é possível
+Após o aprendizado de HTML e CSS, é chegada a hora de ver mais um dos pilares das páginas web. O JavaScript. 
+Enquanto as outas duas ferramentas são linguagens de marcação, o JavaScript é uma linguagem de programação. A partir dessa linguagem é possível
 dar interatividade e dinamismo às páginas.
 
 Nesse projeto pude praticar os conceitos base do javascritp como condicionais, funções, objetos, arrays entre outros. 
