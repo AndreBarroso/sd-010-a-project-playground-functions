@@ -6,7 +6,7 @@ dar interatividade e dinamismo às páginas.
 
 Nesse projeto pude praticar as ferramentas base do javascritp como condicionais, funções, objetos, arrays entre outros. 
 
-Coloco como maior desafio aqui, a lógica de programação que é uma habilidade base em que todo bom programador deve ter muito bem desenvolvida.
+Coloco como maior desafio desse projeto, a lógica de programação, que é uma habilidade base em que todo bom programador deve ter muito bem desenvolvida.
 
 ---
 
