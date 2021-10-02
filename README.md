@@ -4,9 +4,9 @@ Após o aprendizado de HTML e CSS, é chegada a hora de ver mais um dos pilares 
 Enquanto as outras duas são linguagens de marcação, o JavaScript é uma linguagem de programação. A partir dessa linguagem é possível
 dar interatividade e dinamismo às páginas.
 
-Nesse projeto pude praticar as ferramentas base do javascritp como condicionais, funções, objetos, arrays entre outros. 
+Nesse projeto pude praticar as ferramentas base do JavaScritp como condicionais, funções, objetos, arrays entre outros. 
 
-Coloco como maior desafio desse aqui, a lógica de programação, que é uma habilidade base que todo bom programador deve ter muito bem desenvolvida e que foi onde passei a maior parte do tempo de investido na execução desse projeto.  
+Coloco como maior desafio aqui, a lógica de programação, que é uma habilidade base que todo bom programador deve ter muito bem desenvolvida e que foi onde mais precisei investir o tempo na execução desse projeto.  
 
 ---
 
